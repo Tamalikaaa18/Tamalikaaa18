@@ -2,8 +2,8 @@
 - 👀 I’m interested in exploring single-cell multi-omics  in cancer
 - 🌱 I’m did my masters in Bioinformatics from Banaras Hindu University,India.
 - 💞️ I’m currently looking for open positions related to single-cell multi-omics in cancer.
-- 📫 How to reach me ... Linkedin : Tamalika Das
-- Gmail : tamalikadas1810@gmail.com
+- 📫 How to reach me : Linkedin : Tamalika Das
+                        Gmail : tamalikadas1810@gmail.com
   
 
 <!---
