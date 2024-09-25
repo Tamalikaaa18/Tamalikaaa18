@@ -5,7 +5,7 @@
 
      Linkedin : Tamalika Das
 
-     Gmail : tamalikadas1810@gmail.com
+     Gmail : tamalikaaadas18@gmail.com
   
 
 <!---
